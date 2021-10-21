@@ -1,5 +1,5 @@
 {
-    "name": "bitpay/sdk-light",
+    "name": "futurex-open-source/php-bitpay-light-client",
     "description": "Light version of the PHP library for the new cryptographically secure BitPay API",
     "license": "MIT",
     "minimum-stability": "stable",
@@ -10,7 +10,7 @@
         "payment",
         "gateway"
     ],
-    "homepage": "https://github.com/bitpay/php-bitpay-light-client",
+    "homepage": "https://github.com/futurex-open-source/php-bitpay-light-client",
     "require": {
         "php": "^7.1|^8.0",
         "guzzlehttp/guzzle": "^6.3 || ^7.0",
@@ -21,6 +21,10 @@
         {
             "name": "Antonio Buedo",
             "email": "solutions-engineering@bitpay.com"
+        },
+        {
+            "name": "Kitcart Team",
+            "email": "engineers@mykitcart.net"
         }
     ],
     "require-dev": {
